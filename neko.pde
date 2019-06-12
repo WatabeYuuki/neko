@@ -1,6 +1,9 @@
-void setup(){}
-int i;
 
-void drow(){
-  println("Hello");
+void setup(){
+  size(600, 600);
 }
+
+void draw(){
+  ellipse(mouseX, mouseY, 100, 100);
+}
+
