@@ -6,6 +6,6 @@ void setup(){
 
 void draw(){
   background(0);
-  fill(map(mouseX, 0, width, 0, 360));
+  fill(map(mouseX, 0, width, 0, 360), 100, 100);
   ellipse(mouseX, mouseY, 100, 100);
 }
