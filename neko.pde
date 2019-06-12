@@ -1,6 +1,9 @@
-void setup(){}
+void setup(){
+  size(600, 600);
+}
 int i;
 
-void drow(){
+void draw(){
   println("Hello");
+
 }
