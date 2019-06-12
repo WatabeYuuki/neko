@@ -1,7 +1,6 @@
 # neko
-kawaii
 
-**aaa**
+**kawaii!!**
 
-- [ ] :fire:
+- [ ] :arrow_up:
 - [x] :cat:
