@@ -1,4 +1,6 @@
 void setup(){}
 int i;
 
-void drow(){}
+void drow(){
+  println("Hello");
+}
